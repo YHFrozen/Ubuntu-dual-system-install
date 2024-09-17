@@ -36,3 +36,4 @@
 ### 打开Ubuntu系统
 
 重启电脑，拔掉安装盘，新建用户，就可以开始使用ubuntu系统。至此安装完毕。
+![alt text](image.png)
